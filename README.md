@@ -1,17 +1,14 @@
-# To-Do Web Application
+# Tribute Page
 
-This is a basic to-do web app created using HTML, CSS, and JavaScript.
+This is a simple tribute page created using HTML and CSS.
 
 ## Features
-- Add daily tasks
-- Mark tasks as completed
-- Separate sections for Pending and Completed tasks
-- Edit and delete tasks
-- (Optional) Date and time tracking
+- Clean and structured layout
+- Biography section
+- Images and content
+- Responsive design
 
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
-
 
